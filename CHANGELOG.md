@@ -20,7 +20,7 @@
   * [mix ecto.rollback] Add `--log-level` to ecto.rollback
   * [sql] Support fragment splicing
   * [sql] Support data-modifying CTEs
-  * [sql] Add source to insert_ll, insert, update, and delete telemetry events
+  * [sql] Add source to insert_all, insert, update, and delete telemetry events
   * [tds] Include `exec` before stored procedure for TDS (for earlier SQLServer versions)
 
 ### Bug fixes
